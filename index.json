@@ -110,33 +110,7 @@
     , "genre": "BREADCORE"
     , "bpm": 210
     , "charts":
-      [ { "md5": "07082fdfeadc38e45b9b43f913598672"
-        , "info":
-          { "title": "Toast Me!"
-          , "artist": "Micelle"
-          , "genre": "BREADCORE"
-          , "subtitles":
-            [ "[Toast You!]"
-            ]
-          , "subartists":
-            [ "obj.Lapis"
-            ]
-          , "difficulty": 5
-          , "level": 12
-          }
-        , "noteCount": 1608
-        , "bpm":
-          { "init": 210
-          , "min": 210
-          , "median": 210
-          , "max": 210
-          }
-        , "duration": 109
-        , "scratch": true
-        , "keys": "7K"
-        , "file": "_Toast_Me!_Y.bms"
-        }
-      , { "md5": "942a72aef22f961f88d55887dc76d8f6"
+      [ { "md5": "942a72aef22f961f88d55887dc76d8f6"
         , "info":
           { "title": "Toast Me!"
           , "artist": "Micelle"

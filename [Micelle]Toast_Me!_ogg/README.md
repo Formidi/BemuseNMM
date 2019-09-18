@@ -1,4 +1,4 @@
 ---
-video_file: _BGA.webm
+video_file: _BGA.mp4
 video_offset: 0
 ---

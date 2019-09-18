@@ -1,2 +1,3 @@
-video_fileF_BGA.webm
-video_offsetF0.000
+
+video_file: _BGA.webm
+video_offset: 0

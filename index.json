@@ -1,168 +1,216 @@
 { "songs":
-  [ { "title": "KAWAI THUNDER"
-    , "artist": "Micelle"
-    , "genre": "Kawaic Schranz"
-    , "bpm": 161
+  [ { "title": "えいえんの　ゆめを　ください"
+    , "artist": "hugepulse BGA:Micelle"
+    , "genre": "Chiptune"
+    , "bpm": 200
     , "charts":
-      [ { "md5": "25fd92f36e2aa2c6d00c3fd8014dfdfc"
+      [ { "md5": "e207ff5fda09b5f38f7960e3409d3e18"
         , "info":
-          { "title": "KAWAI THUNDER"
-          , "artist": "Micelle"
-          , "genre": "Kawaic Schranz"
-          , "subtitles":
-            [ "NORMAL"
-            ]
-          , "subartists": []
-          , "difficulty": 0
-          , "level": 4
-          }
-        , "noteCount": 376
-        , "bpm":
-          { "init": 161
-          , "min": 161
-          , "median": 161
-          , "max": 161
-          }
-        , "duration": 111.80124223602485
-        , "scratch": true
-        , "keys": "7K"
-        , "file": "0_kawai3.bms"
-        }
-      , { "md5": "7cc6efbbf20998758d1524cee95f22c8"
-        , "info":
-          { "title": "CAIT THUNDER"
-          , "artist": "Micelle / obj&BGA:てーわい"
-          , "genre": "Caitic Schranz"
-          , "subtitles":
-            [ "NYAIPER"
-            ]
-          , "subartists": []
-          , "difficulty": 3
-          , "level": 8
-          }
-        , "noteCount": 867
-        , "bpm":
-          { "init": 161
-          , "min": 161
-          , "median": 161
-          , "max": 161
-          }
-        , "duration": 111.80124223602485
-        , "scratch": true
-        , "keys": "7K"
-        , "file": "1_kawai3_c.bms"
-        }
-      , { "md5": "0cfe0506163241cefe6280f2c05fa08c"
-        , "info":
-          { "title": "KAWAI THUNDER"
-          , "artist": "Micelle"
-          , "genre": "Kawaic Schranz"
-          , "subtitles":
-            [ "HYPER"
-            ]
-          , "subartists": []
-          , "difficulty": 0
-          , "level": 8
-          }
-        , "noteCount": 861
-        , "bpm":
-          { "init": 161
-          , "min": 161
-          , "median": 161
-          , "max": 161
-          }
-        , "duration": 111.80124223602485
-        , "scratch": true
-        , "keys": "7K"
-        , "file": "1_kawai3.bms"
-        }
-      , { "md5": "a96b25e08d02eb32f356b1c0bd3cc639"
-        , "info":
-          { "title": "KAWAI THUNDER"
-          , "artist": "Micelle"
-          , "genre": "Kawaic Schranz"
+          { "title": "えいえんの　ゆめを　ください"
+          , "artist": "hugepulse BGA:Micelle"
+          , "genre": "Chiptune"
           , "subtitles":
             [ "ANOTHER"
             ]
           , "subartists": []
-          , "difficulty": 0
-          , "level": 10
+          , "difficulty": 4
+          , "level": 12
           }
-        , "noteCount": 1125
+        , "noteCount": 2165
         , "bpm":
-          { "init": 161
-          , "min": 161
-          , "median": 161
-          , "max": 161
+          { "init": 200
+          , "min": 100
+          , "median": 200
+          , "max": 200
           }
-        , "duration": 111.80124223602485
+        , "duration": 150
         , "scratch": true
         , "keys": "7K"
-        , "file": "2_kawai3.bms"
+        , "file": "eien_a.bms"
         }
-      ]
-    , "warnings": []
-    , "id": "[Micelle]KAWAI_THUNDER"
-    , "path": "[Micelle]KAWAI_THUNDER"
-    }
-  , { "title": "Toast Me!"
-    , "artist": "Micelle"
-    , "genre": "BREADCORE"
-    , "bpm": 210
-    , "charts":
-      [ { "md5": "942a72aef22f961f88d55887dc76d8f6"
+      , { "md5": "657989829158b5f27af3df922baf17a3"
         , "info":
-          { "title": "Toast Me!"
-          , "artist": "Micelle"
-          , "genre": "BREADCORE"
+          { "title": "えいえんの　ゆめを　ください"
+          , "artist": "hugepulse BGA:Micelle"
+          , "genre": "Chiptune"
+          , "subtitles":
+            [ "BEGINNER"
+            ]
+          , "subartists": []
+          , "difficulty": 1
+          , "level": 3
+          }
+        , "noteCount": 181
+        , "bpm":
+          { "init": 200
+          , "min": 100
+          , "median": 200
+          , "max": 200
+          }
+        , "duration": 150
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "eien_b.bms"
+        }
+      , { "md5": "93ab7f6857269d90723b6c3fd743d480"
+        , "info":
+          { "title": "えいえんの　ゆめを　ください"
+          , "artist": "hugepulse BGA:Micelle"
+          , "genre": "Chiptune"
+          , "subtitles":
+            [ "HYPER"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 10
+          }
+        , "noteCount": 1107
+        , "bpm":
+          { "init": 200
+          , "min": 100
+          , "median": 200
+          , "max": 200
+          }
+        , "duration": 150
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "eien_h.bms"
+        }
+      , { "md5": "162ff4a9edd15255ba142ce0db560b4c"
+        , "info":
+          { "title": "えいえんの　ゆめを　ください"
+          , "artist": "hugepulse BGA:Micelle"
+          , "genre": "Chiptune"
           , "subtitles":
             [ "NORMAL"
             ]
           , "subartists": []
           , "difficulty": 2
-          , "level": 4
+          , "level": 7
           }
-        , "noteCount": 292
+        , "noteCount": 582
         , "bpm":
-          { "init": 210
-          , "min": 210
-          , "median": 210
-          , "max": 210
+          { "init": 200
+          , "min": 100
+          , "median": 200
+          , "max": 200
           }
-        , "duration": 109
+        , "duration": 150
         , "scratch": true
         , "keys": "7K"
-        , "file": "2_Toast_Me!.bms"
+        , "file": "eien_n.bms"
         }
-      , { "md5": "2f881b3c9188368b06aa9572f048d965"
+      , { "md5": "90c3099ccd643e9a31832b87e63dadc5"
         , "info":
-          { "title": "Toast Me!"
+          { "title": "えいえんの　ゆめを　ください"
+          , "artist": "hugepulse BGA:Micelle"
+          , "genre": "Chiptune"
+          , "subtitles":
+            [ "NIRVANA"
+            ]
+          , "subartists": []
+          , "difficulty": 5
+          , "level": 0
+          }
+        , "noteCount": 3129
+        , "bpm":
+          { "init": 200
+          , "min": 200
+          , "median": 200
+          , "max": 200
+          }
+        , "duration": 150
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "eien_nir.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "Eienno_Yumewo_Kudasai_ogg"
+    , "path": "Eienno_Yumewo_Kudasai_ogg"
+    }
+  , { "title": "PhonDrome!"
+    , "artist": "Micelle"
+    , "genre": "HYBRiD MODEL"
+    , "bpm": 190
+    , "charts":
+      [ { "md5": "a48d0a40071d2dd8e427745243de1b8c"
+        , "info":
+          { "title": "PhonDrome!"
           , "artist": "Micelle"
-          , "genre": "BREADCORE"
+          , "genre": "HYBRiD MODEL"
+          , "subtitles":
+            [ "BEGINNER"
+            ]
+          , "subartists": []
+          , "difficulty": 1
+          , "level": 2
+          }
+        , "noteCount": 169
+        , "bpm":
+          { "init": 190
+          , "min": 190
+          , "median": 190
+          , "max": 190
+          }
+        , "duration": 135.1578947368421
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "1_PhonDrome!.bms"
+        }
+      , { "md5": "1f21f6269e3e9eeb1a91cc055a35edaf"
+        , "info":
+          { "title": "PhonDrome!"
+          , "artist": "Micelle"
+          , "genre": "HYBRiD MODEL"
+          , "subtitles":
+            [ "NORMAL"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 6
+          }
+        , "noteCount": 589
+        , "bpm":
+          { "init": 190
+          , "min": 190
+          , "median": 190
+          , "max": 190
+          }
+        , "duration": 135.1578947368421
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "2_PhonDrome!.bms"
+        }
+      , { "md5": "11d75776d87b931b5b12fd1b882ba724"
+        , "info":
+          { "title": "PhonDrome!"
+          , "artist": "Micelle"
+          , "genre": "HYBRiD MODEL"
           , "subtitles":
             [ "HYPER"
             ]
           , "subartists": []
           , "difficulty": 3
-          , "level": 10
+          , "level": 9
           }
-        , "noteCount": 994
+        , "noteCount": 1035
         , "bpm":
-          { "init": 210
-          , "min": 210
-          , "median": 210
-          , "max": 210
+          { "init": 190
+          , "min": 190
+          , "median": 190
+          , "max": 190
           }
-        , "duration": 109
+        , "duration": 135.1578947368421
         , "scratch": true
         , "keys": "7K"
-        , "file": "3_Toast_Me!.bms"
+        , "file": "3_PhonDrome!.bms"
         }
-      , { "md5": "e9094c98b997edf7aa0ff16db270c190"
+      , { "md5": "2037b8dea76082a77e02e75799d56384"
         , "info":
-          { "title": "Toast Me!"
+          { "title": "PhonDrome!"
           , "artist": "Micelle"
-          , "genre": "BREADCORE"
+          , "genre": "HYBRiD MODEL"
           , "subtitles":
             [ "ANOTHER"
             ]
@@ -170,22 +218,46 @@
           , "difficulty": 4
           , "level": 11
           }
-        , "noteCount": 1126
+        , "noteCount": 1670
         , "bpm":
-          { "init": 210
-          , "min": 210
-          , "median": 210
-          , "max": 210
+          { "init": 190
+          , "min": 190
+          , "median": 190
+          , "max": 190
           }
-        , "duration": 109
+        , "duration": 135.1578947368421
         , "scratch": true
         , "keys": "7K"
-        , "file": "4_Toast_Me!.bms"
+        , "file": "4_PhonDrome!.bms"
+        }
+      , { "md5": "774f2c6f9635ea39a0d1b8480ff0f253"
+        , "info":
+          { "title": "PhonDrome!"
+          , "artist": "Micelle"
+          , "genre": "HYBRiD MODEL"
+          , "subtitles":
+            [ "GALAPAGOS'"
+            ]
+          , "subartists": []
+          , "difficulty": 5
+          , "level": 14
+          }
+        , "noteCount": 2313
+        , "bpm":
+          { "init": 190
+          , "min": 190
+          , "median": 190
+          , "max": 190
+          }
+        , "duration": 135.1578947368421
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "5_PhonDrome!.bms"
         }
       ]
     , "warnings": []
-    , "id": "[Micelle]Toast_Me!_ogg"
-    , "path": "[Micelle]Toast_Me!_ogg"
+    , "id": "PhonDrome!_ogg"
+    , "path": "PhonDrome!_ogg"
     }
   ]
 }
